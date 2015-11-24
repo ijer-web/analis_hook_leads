@@ -1,0 +1,19 @@
+{
+  "name": "analis_hook_leads",
+  "version": "1.0.0",
+  "description": "module for analysis webhook from AMOcrm. Only leads. ",
+  "main": "analis_hook_leads.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com:ijer-web/analis_hook_leads.git"
+  },
+  "keywords": [
+    "amo",
+    "webhook"
+  ],
+  "author": "ijer",
+  "license": "ISC"
+}
